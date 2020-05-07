@@ -14,11 +14,11 @@ import os
 import time
 from aip import AipSpeech
 
-APP_ID = '15886117'
-API_KEY = 'mxMjmaZh7bjVppc3UXE588iD'
-SECRET_KEY = 'I5meO0pDg1DNK9wZE3rIo5jYo7VP8wTp'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 
-TURING_KEY = "23a6c7901ba743d99f0c52bd93813063"
+TURING_KEY = ""
 URL = "http://openapi.tuling123.com/openapi/api/v2"
 HEADERS = {'Content-Type': 'application/json;charset=UTF-8'}
 
